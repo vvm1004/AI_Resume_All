@@ -1,5 +1,9 @@
 # README: Installation and Running Guide
 
+
+## Overview
+This project aims to develop an AI-powered platform that not only assists users in creating optimized, ATS-compliant resumes but also provides a streamlined job search and application process. By integrating AI-driven resume suggestions, keyword optimization, and a powerful job search engine, the platform offers a comprehensive solution for job seekers. Users can build professional resumes, tailor them for specific roles, search for relevant job openings, and apply directly through the platform, all while receiving real-time feedback on their application’s strengths and areas for improvement.
+
 ## Purpose
 This document provides a detailed guide on how to set up and run the project, which includes a Python-based backend, a NestJS-based API, and a React.js frontend using Vite.
 
